@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+欢迎来到取经号的职工之家。
 
-### More Information
+### 在职工之家做什么？
 
-A place to include any other types of information that you'd like to include about yourself.
+规章制度公开，组织近况更新，其他的emm还没想好。
 
-### Contact me
+### 联系伍豪
 
-[email@domain.com](mailto:email@domain.com)
+[woohow@qujinghao.com](mailto:woohow@qujinghao.com)
