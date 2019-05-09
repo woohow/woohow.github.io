@@ -29,6 +29,10 @@ New York times,  guardian,  jstor, 网页
 
 
 
+---
+
+
+
 ## Q2：选题的步骤？
 
 ### 海伦：
@@ -60,6 +64,10 @@ New York times,  guardian,  jstor, 网页
 
 
 
+---
+
+
+
 ## Q3：哪篇该选，哪篇不该选。爱选怎样的文章？
 
 ### 海伦：
@@ -83,6 +91,10 @@ New York times,  guardian,  jstor, 网页
 ### 玉池：
 
 有价值的，不太长，适合大众阅读。没有特别偏好。
+
+
+
+---
 
 
 
